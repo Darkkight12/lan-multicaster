@@ -1,0 +1,6 @@
+{
+  "name": "CastLink A/V",
+  "description": "An offline, low-latency video and audio broadcasting suite over local Wi-Fi with multi-device WebRTC receivers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
